@@ -6,9 +6,10 @@ I’m a multidisciplinary professional working at the intersection of **travel**
 
 ## 🚀 Who I Am
 
-- **Fintech Consultant & Author**: 20+ years in retail and commercial banking analytics. Author of *Seven Billion Banks*, advocating personalized banking experiences via data-driven insights.
+- **Fintech Consultant & Author**: 20+ years in retail and commercial banking analytics. Author of *Seven Billion Banks* advocating personalized banking experiences via data-driven insights.
 - **Full-Stack Developer**: Architecting and coding n‑tier web apps with **Next.js**, **FastAPI**, **MongoDB**, deployed on **Vercel** & **Render**. Recent work includes a photography e‑commerce platform and an AI-powered narrative modeling assistant.
 - **Mathematics Enthusiast**: Graduate-level research in algebraic topology and K-theory of finite loop spaces. Passionate about homotopy theory, spectral sequences, and publishing academic work.
+- **Author & Entrepreneur**: Deep consulting experience in scaling consulting services companies. Author of *Scale: How to Grow Your Business by Working Less*, *Scalable Consulting: Use a High-Ticket Program to Transform Your 6-Figure Practice into a 7-Figure Enterprise*, *Personalizing Your Marketing: How Segmenting Your Prospects and Sending Specific Messages Will Transform Your Marketing Success* (co-author Mark Nogaki)
 - **Music Composer**: Hobbyist composer for film and media, exploring ways to blend visuals and sound in storytelling.
 - **Polyglot Learner**: Fluent in German; conversational in Russian, French, and Italian. Always curious about language, culture, and new perspectives.
 
@@ -22,22 +23,24 @@ Built a Next.js front end with Cloudinary image storage, a FastAPI backend (Bean
 ### 🤖 Narrative AI Modeling Assistant (Prototype)
 Designing a narrative-driven, AI-guided workflow for data modeling (regression, classification, time series) that empowers non-experts to generate insights with minimal friction.
 
-### ✉️ AI Email Assistant (Prototype)
-Conceiving a ‘1950s executive secretary’ metaphor UI that transforms email into actionable tasks, integrating Zapier for third-party workflows and on-the-fly training.
+### ✉️ AI Assistant (Prototype)
+🥷 Stealth Mode
 
 ---
 
 ## 📚 Thought Leadership
 
 - **Seven Billion Banks**: *How a Personalized Banking Experience Will Save the Industry* — my deep dive into customer-centric banking powered by advanced analytics and AI.
+- Check out my other publications available on my [Amazon author profile](https://www.amazon.com/stores/author/B00LEY3IFK?ccs_id=c1f1e717-0fbf-40ed-991a-9acdfd5953b2)
 - Contributor to fintech publications and speaker at industry conferences on data personalization and regulatory compliance.
+- Host of **The 6 to 7 Figures Show** Podcast on [Spotify](https://open.spotify.com/show/0xcYcgrzcnsff0mkNX0fGh)
 
 ---
 
 ## 🌱 What’s Next
 
 - Scaling the narrative modeling assistant into a SaaS MVP.
-- Finalizing new Bear Adventures 2025 itineraries (Europe & Asia).
+- Continuing work on AI Assistants.
 - Publishing a series of homotopy theory expositions and code-driven math notebooks.
 
 ---
@@ -47,10 +50,11 @@ Conceiving a ‘1950s executive secretary’ metaphor UI that transforms email i
 - 🌐 **Website:** [frankbria.com](https://frankbria.com)
 - 📬 **Email:** frank@frankbria.com
 - 🔗 **LinkedIn:** [linkedin.com/in/frankbria](https://www.linkedin.com/in/frankbria)
+- 🎵 **Frank Bria Music Website:** [frankbriamusic.com](https://frankbrismusic.com)
 
 ---
 
-> “I build worlds—whether through code, travel, or abstraction.”  
+> “I build worlds—whether through code, travel, music, or math.”  
 > Frank Bria
 
 
