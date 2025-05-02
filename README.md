@@ -29,7 +29,7 @@ Designing a narrative-driven, AI-guided workflow for data modeling (regression, 
 ---
 ## ⚡ Featured Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,fastapi,django,react,nextjs,nodejs,express,mongodb,postgres,mysql,tensorflow,sklearn,ai,r,tailwind,cs,dotnet,git,github,githubactions,html,css,latex,postman,ts,visualstudio,wordpress,aws&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,fastapi,django,react,nextjs,nodejs,express,mongodb,postgres,mysql,tensorflow,sklearn,ai,r,tailwind,cs,dotnet,git,github,githubactions,html,css,latex,postman,ts,visualstudio,wordpress,aws&perline=15)](https://skillicons.dev)
 
 ---
 
