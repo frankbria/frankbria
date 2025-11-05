@@ -8,9 +8,9 @@ I'm a multidisciplinary professional working at the intersection of **AI/ML**, *
 
 - **AI/ML Engineer & Developer**: Building autonomous AI systems, machine learning platforms, and intelligent automation tools. Creator of [ralph-claude-code](https://github.com/frankbria/ralph-claude-code), an autonomous AI development framework, and [narrative-modeling-app](https://github.com/frankbria/narrative-modeling-app), an AI-guided data modeling platform.
 - **Full-Stack Developer**: Architecting and coding n‑tier web apps with **Next.js**, **FastAPI**, **MongoDB**, deployed on **Vercel** & **Render**. Expertise in Python, JavaScript/TypeScript, and modern web frameworks.
-- **Fintech Consultant & Author**: 20+ years in retail and commercial banking analytics. Author of *Seven Billion Banks* advocating personalized banking experiences via data-driven insights.
+- **Fintech Consultant & Author**: 20+ years in retail and commercial banking analytics. Author of [*Seven Billion Banks*](https://www.amazon.com/Seven-Billion-Banks-Personalized-Experience/dp/0985725435) advocating personalized banking experiences via data-driven insights.
 - **Mathematics Enthusiast**: Graduate-level research in algebraic topology and K-theory of finite loop spaces. Passionate about homotopy theory, spectral sequences, and publishing academic work.
-- **Author & Entrepreneur**: Deep consulting experience in scaling services companies. Author of *Scale: How to Grow Your Business by Working Less*, *Scalable Consulting*, and *Personalizing Your Marketing* (co-author Mark Nogaki).
+- **Author & Entrepreneur**: Deep consulting experience in scaling services companies. Author of [*Scale: How to Grow Your Business by Working Less*](https://www.amazon.com/Scale-Grow-Your-Business-Working-ebook/dp/B00YW8OIGS), [*Scalable Consulting*](https://www.amazon.com/Scalable-Consulting-High-Ticket-Transform-Enterprise-ebook/dp/B08JJ4P34J), and [*Personalizing Your Marketing*](https://www.amazon.com/Personalizing-Your-Marketing-Segmenting-Prospects-ebook/dp/B00NVU3MMY) (co-author Mark Nogaki).
 - **Music Composer**: Hobbyist composer for film and media, exploring ways to blend visuals and sound in storytelling.
 - **Polyglot Learner**: Fluent in German; conversational in Russian, French, and Italian. Always curious about language, culture, and new perspectives.
 
@@ -50,7 +50,7 @@ AI-powered email assistant leveraging natural language processing for intelligen
 
 ## 📚 Thought Leadership
 
-- **Seven Billion Banks**: *How a Personalized Banking Experience Will Save the Industry* — my deep dive into customer-centric banking powered by advanced analytics and AI.
+- [**Seven Billion Banks**: *How a Personalized Banking Experience Will Save the Industry*](https://www.amazon.com/Seven-Billion-Banks-Personalized-Experience/dp/0985725435) — my deep dive into customer-centric banking powered by advanced analytics and AI.
 - Check out my other publications available on my [Amazon author profile](https://www.amazon.com/stores/author/B00LEY3IFK?ccs_id=c1f1e717-0fbf-40ed-991a-9acdfd5953b2)
 - Contributor to fintech publications and speaker at industry conferences on data personalization and regulatory compliance.
 - Host of **The 6 to 7 Figures Show** Podcast on [Spotify](https://open.spotify.com/show/0xcYcgrzcnsff0mkNX0fGh)
