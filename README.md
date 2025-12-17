@@ -69,6 +69,7 @@ AI-powered email assistant leveraging natural language processing for intelligen
 ## 📫 Let's Connect
 
 - 🌐 **Website:** [frankbria.com](https://frankbria.com)
+- ⌨️ **Blog:** [Code & Context](https://frankbria.github.io/frankbria-blog/)
 - 📬 **Email:** frank@frankbria.com
 - 🔗 **LinkedIn:** [linkedin.com/in/frankbria](https://www.linkedin.com/in/frankbria)
 - 🎵 **Frank Bria Music Website:** [frankbriamusic.com](https://frankbriamusic.com)
