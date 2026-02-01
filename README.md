@@ -6,7 +6,7 @@ I build AI systems and help investors understand them.
 
 **By night:** Building in the AI tooling space. My [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) project (autonomous agentic coding loops) has 6k+ stars and taught me more about where AI development is actually heading than any whitepaper.
 
-**In a past life:** Industry analyst at Tower Group (now Gartner), where I spent years telling banks what analytics/ML/AI technology actually mattered and telling vendors what banks actually needed. Author of [*Seven Billion Banks*](https://www.amazon.com/Seven-Billion-Banks-Personalized-Experience/dp/0985725435) on personalized banking.
+**In a past life:** Founder/Co-Founder of Fintech startups. One of the creators of banking pricing optimization technology. Industry analyst at Tower Group (now Gartner), where I spent years telling banks what analytics/ML/AI technology actually mattered and telling vendors what banks actually needed. Author of [*Seven Billion Banks*](https://www.amazon.com/Seven-Billion-Banks-Personalized-Experience/dp/0985725435) on personalized banking.
 
 ---
 
